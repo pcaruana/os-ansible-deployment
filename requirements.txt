@@ -8,3 +8,4 @@ pycrypto>=2.6           # ansible
 PyYAML>=3.1.0           # ansible
 requests>=2.2.0,!=2.4.0 # scripts/os-ansible-role-requirements.py
 cryptography>=39.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
